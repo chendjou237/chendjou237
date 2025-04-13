@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://app.daily.dev/honore237"><img src="https://api.daily.dev/devcards/0d03c8a731e14685b358106859fc65e3.png?r=h2c" width="400" alt="CHENDJOU CHENDJOU HONORE's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/honore237"><img src="https://api.daily.dev/devcards/0d03c8a731e14685b358106859fc65e3.png?r=h2c" width="400" alt="CHENDJOU CHENDJOU HONORE's Dev Card"/></a> -->
   
 # chendjou chendjou honore
 ### I am a full stack MERN developer with experience building web applications using the latest technologies and frameworks in the JS ecosystem. I am pass
